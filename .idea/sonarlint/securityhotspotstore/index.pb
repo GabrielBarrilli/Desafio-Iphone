@@ -1,6 +1,4 @@
 
-=
-src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
 ?
 src/Iphone.java,5/9/59a58e1b45fa5d6d062d2128e8f08bb104ba82a1
 J
@@ -15,8 +13,6 @@ w
 G.idea/sonarlint/issuestore/6/2/62463feafb0ec264456fc51eec7c43a094838994,8/3/837259e1be2691b9aa673a0e9e180eaa001487f3
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-Å
-Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b/0/b08f1ab659fbdd998f45c0def99188f980cc899b
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 :

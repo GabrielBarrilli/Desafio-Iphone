@@ -1,5 +1,14 @@
 
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ì™—£õ1J$bdc7ab10-09cf-4577-bc63-fbb254447049
-r
-java:S1068"*Remove this unused "versao" private field.(«ô®úÿÿÿÿ8Ğ™—£õ1J$2cad0b47-ef67-40ea-ac43-5030b55e51a7
+l	java:S106"+Replace this use of System.out by a logger.(¼¥Ê]8›µ¥Éõ1J$b0b00e8d-95d8-4ed8-923b-554483712704
+m	java:S106"+Replace this use of System.out by a logger.(­ƒÁÉ8œµ¥Éõ1J$73942808-28c1-4a12-8dbe-38183de28d34
+m	java:S106"+Replace this use of System.out by a logger.(À¢Éñ8œµ¥Éõ1J$9e15b23d-ca06-446d-a3c2-3d95d73deca6
+r	java:S106"+Replace this use of System.out by a logger.(«ùñùøÿÿÿÿ8œµ¥Éõ1J$74dd1408-ec81-48a8-9418-8e451c49ac7c
+r	java:S106"+Replace this use of System.out by a logger.(Â§ßïÿÿÿÿÿ8œµ¥Éõ1J$a87be0ce-054c-4c57-8f48-63be6d56cbdd
+m	java:S106"+Replace this use of System.out by a logger.(ÖÚÏÔ8œµ¥Éõ1J$29fd8c80-0852-4002-8137-6d8e6a7fb632
+r	java:S106"+Replace this use of System.out by a logger.(Œä„€ûÿÿÿÿ8µ¥Éõ1J$8311f9a4-fdf8-40df-b388-3bf4c7e5e55e
+r	java:S106"+Replace this use of System.out by a logger.(’Ğï¿ÿÿÿÿÿ8µ¥Éõ1J$c5143c61-40e9-4b85-a1f9-0c2000d80d34
+r	java:S106"+Replace this use of System.out by a logger.(Ô–‘Õûÿÿÿÿ8µ¥Éõ1J$28366978-288f-4f26-82af-3b7b2bcce51c
+r	java:S1063"+Replace this use of System.out by a logger.(Şš¶Ûıÿÿÿÿ8Ÿµ¥Éõ1J$55639445-2239-476a-98a6-72f3db6f7b13
+m	java:S106;"+Replace this use of System.out by a logger.(Ú»©ä8€…¶Éõ1J$3aba1443-e551-4267-ae1f-254814d97b7e
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¥ÔªÉõ1J$e87822a3-0e3e-484c-8761-8bb8d900f6e4
